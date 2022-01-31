@@ -11,10 +11,10 @@ each node.
 Di= { R, G, B, Y, C, P, D, C….}
 
 -Constraints: 
-1. No zigzag allowed when connecting colors.
-2. Cornered State: check that one node don’t corner any other node.
-3. No empty cells: meaning that for a complete consistent assignment, all cells have colors in it.
-4. Start and finish node have only one child/parent.
+1. No zigzag allowed when connecting colors.
+2. Cornered State: check that one node don’t corner any other node.
+3. No empty cells: meaning that for a complete consistent assignment, all cells have colors in it.
+4. Start and finish node have only one child/parent.
 5. Pipes cannot intersect with each other.
 This code has two different versions of implementation, Smart Agent & Dumb Agent.
 
