@@ -2,7 +2,7 @@
 Solve flow free game as a Constraint Satisfaction Problem using smart and dumb agents
 By using backtracking search, you can solve flow free game as constraint satisfaction problem whereas;
 
--Variables:which are the variables of the problem and in this case they are the empty nodes.
+-Variables: which are the variables of the problem and in this case they are the empty nodes.
 
 -Domains: Since there cannot be an empty node, i.e., all nodes
 must be filled with color. So the domain of each
